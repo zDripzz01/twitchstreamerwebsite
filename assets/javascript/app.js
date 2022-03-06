@@ -21,7 +21,7 @@ var _app = function () {
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['Ahad', 'Ahad!', '! Ahad', '!Ahad!', '! Ahad !', ' Ahad :]', ';---;', 'Ahad'];
+            ['Ahad', 'Ahad!', 'Ahad', '! Ahad !', '! Ahad !', ' Ahad :)', ':D', 'Ahad'];
         delay = delay || 2000;
 
         var counter = 0;
