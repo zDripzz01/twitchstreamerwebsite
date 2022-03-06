@@ -13,10 +13,10 @@ var _app = function () {
     this.brandDescription = [
         "Ahad", 
         "Ahad!", 
-        "! Ahad !", 
-        "Ahad :|", 
+        "Ahad :)", 
         "Ahad :D", 
-        "Ahad ;-;"
+        "! Ahad !", 
+        "www.ahad.cf"
     ];
 
     this.titleChanger = function (text, delay) {
